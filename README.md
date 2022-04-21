@@ -1,2 +1,2 @@
 # WEBSITE_block_APP
-block any website for perticular time period using python scripts
+block any website for particular time period using python scripts
